@@ -27,6 +27,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "facebookAppId": "272821631494783",
+    "facebookDisplayName": "KateSoso",
+    "description": ""
   }
 }
